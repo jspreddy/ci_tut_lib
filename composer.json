@@ -1,0 +1,16 @@
+{
+    "name": "sai/ci_tut_lib",
+    "description": "this is a library for codeigniter",
+    "type": "library",
+    "require":{},
+    "require-dev": {
+        "codeigniter/framework": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Sai Phaninder Reddy Jonnala",
+            "email": "sai.jonnala@gopassport.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
