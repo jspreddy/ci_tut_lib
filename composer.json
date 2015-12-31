@@ -12,5 +12,8 @@
             "email": "sai.jonnala@gopassport.com"
         }
     ],
+    "autoload":{
+        "psr-4": { "CiLibs\\": "src/" }
+    },
     "minimum-stability": "dev"
 }
